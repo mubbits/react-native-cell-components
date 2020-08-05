@@ -73,7 +73,7 @@ class ActionSheet extends React.Component {
         toValue,
         duration: toValue === 0 ? 400 : 350,
         easing: Easing.bezier(.36,.66,.04,1),
-        // useNativeDriver: true
+        useNativeDriver: true
       }).start(() => {
         if (callback) callback();
       });
