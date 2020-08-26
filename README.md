@@ -8,7 +8,7 @@ Support for RN 0.60 is limited as the moment due to compatibility issues special
 ## Installation
 
 ```
-npm install react-native-cell-components --save
+npm install @logvinme/react-native-cell-components --save
 ```
 Awesome react-native cell components! As the package name says, components that are built around a `Cell` component. Used for a simple `ActionSheet` to a more complex `CellTags` + `SelectList`, and much more!
 

@@ -13,7 +13,7 @@ import {
   CellListItem,
   CellSlider,
   CellSwitch
-} from 'react-native-cell-components';
+} from '@logvinme/react-native-cell-components';
 
 import {
   StyleSheet,
