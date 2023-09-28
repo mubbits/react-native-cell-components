@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/lodev09/react-native-cell-components#readme",
   "dependencies": {
-    "deprecated-react-native-listview": "0.0.6"
+    "deprecated-react-native-listview": "^0.0.9"
   },
   "directories": {
     "example": "example",
