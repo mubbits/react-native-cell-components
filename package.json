@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "react": "16.8.3",
-    "react-native": "^0.59",
+    "react": "*",
+    "react-native": "*",
     "react-native-vector-icons": "*",
     "prop-types": "*"
   },
